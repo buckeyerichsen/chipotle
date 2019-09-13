@@ -16,15 +16,15 @@ public class Main {
 
         Random r=new Random();
 
-        for( int i = 0; int i <= 10; i++)
+        for( int i = 0; int i <= 10; i++) {
 
-        System.out.println("Burrito 1: "
-                + rice[r.nextInt(rice.length)]
-                + meat[r.nextInt(meat.length)]
-                + beans[r.nextInt(beans.length)]
-                + salsa[r.nextInt(salsa.length)]
-                + veggies[r.nextInt(veggies.length)]);
-
+            System.out.println("Burrito 1: "
+                    + rice[r.nextInt(rice.length)]
+                    + meat[r.nextInt(meat.length)]
+                    + beans[r.nextInt(beans.length)]
+                    + salsa[r.nextInt(salsa.length)]
+                    + veggies[r.nextInt(veggies.length)]);
+        }
 
 
 
