@@ -16,6 +16,8 @@ public class Main {
 
         Random r=new Random();
 
+        for( int i = 0; int i <= 10; i++)
+
         System.out.println("Burrito 1: "
                 + rice[r.nextInt(rice.length)]
                 + meat[r.nextInt(meat.length)]
@@ -25,68 +27,70 @@ public class Main {
 
 
 
-        System.out.println("Burrito 2: "
-                + rice[r.nextInt(rice.length)]
-                + meat[r.nextInt(meat.length)]
-                + beans[r.nextInt(beans.length)]
-                + salsa[r.nextInt(salsa.length)]
-                + veggies[r.nextInt(veggies.length)]);
 
-        System.out.println("Burrito 3: "
-                + rice[r.nextInt(rice.length)]
-                + meat[r.nextInt(meat.length)]
-                + beans[r.nextInt(beans.length)]
-                + salsa[r.nextInt(salsa.length)]
-                + veggies[r.nextInt(veggies.length)]);
-
-        System.out.println("Burrito 4: "
-                + rice[r.nextInt(rice.length)]
-                + meat[r.nextInt(meat.length)]
-                + beans[r.nextInt(beans.length)]
-                + salsa[r.nextInt(salsa.length)]
-                + veggies[r.nextInt(veggies.length)]);
-
-        System.out.println("Burrito 5: "
-                + rice[r.nextInt(rice.length)]
-                + meat[r.nextInt(meat.length)]
-                + beans[r.nextInt(beans.length)]
-                + salsa[r.nextInt(salsa.length)]
-                + veggies[r.nextInt(veggies.length)]);
-
-        System.out.println("Burrito 6: "
-                + rice[r.nextInt(rice.length)]
-                + meat[r.nextInt(meat.length)]
-                + beans[r.nextInt(beans.length)]
-                + salsa[r.nextInt(salsa.length)]
-                + veggies[r.nextInt(veggies.length)]);
-
-        System.out.println("Burrito 7: "
-                + rice[r.nextInt(rice.length)]
-                + meat[r.nextInt(meat.length)]
-                + beans[r.nextInt(beans.length)]
-                + salsa[r.nextInt(salsa.length)]
-                + veggies[r.nextInt(veggies.length)]);
-
-        System.out.println("Burrito 8: "
-                + rice[r.nextInt(rice.length)]
-                + meat[r.nextInt(meat.length)]
-                + beans[r.nextInt(beans.length)]
-                + salsa[r.nextInt(salsa.length)]
-                + veggies[r.nextInt(veggies.length)]);
-
-        System.out.println("Burrito 9: "
-                + rice[r.nextInt(rice.length)]
-                + meat[r.nextInt(meat.length)]
-                + beans[r.nextInt(beans.length)]
-                + salsa[r.nextInt(salsa.length)]
-                + veggies[r.nextInt(veggies.length)]);
-
-        System.out.println("Burrito 10: "
-                + rice[r.nextInt(rice.length)]
-                + meat[r.nextInt(meat.length)]
-                + beans[r.nextInt(beans.length)]
-                + salsa[r.nextInt(salsa.length)]
-                + veggies[r.nextInt(veggies.length)]);
+//
+//        System.out.println("Burrito 2: "
+//                + rice[r.nextInt(rice.length)]
+//                + meat[r.nextInt(meat.length)]
+//                + beans[r.nextInt(beans.length)]
+//                + salsa[r.nextInt(salsa.length)]
+//                + veggies[r.nextInt(veggies.length)]);
+//
+//        System.out.println("Burrito 3: "
+//                + rice[r.nextInt(rice.length)]
+//                + meat[r.nextInt(meat.length)]
+//                + beans[r.nextInt(beans.length)]
+//                + salsa[r.nextInt(salsa.length)]
+//                + veggies[r.nextInt(veggies.length)]);
+//
+//        System.out.println("Burrito 4: "
+//                + rice[r.nextInt(rice.length)]
+//                + meat[r.nextInt(meat.length)]
+//                + beans[r.nextInt(beans.length)]
+//                + salsa[r.nextInt(salsa.length)]
+//                + veggies[r.nextInt(veggies.length)]);
+//
+//        System.out.println("Burrito 5: "
+//                + rice[r.nextInt(rice.length)]
+//                + meat[r.nextInt(meat.length)]
+//                + beans[r.nextInt(beans.length)]
+//                + salsa[r.nextInt(salsa.length)]
+//                + veggies[r.nextInt(veggies.length)]);
+//
+//        System.out.println("Burrito 6: "
+//                + rice[r.nextInt(rice.length)]
+//                + meat[r.nextInt(meat.length)]
+//                + beans[r.nextInt(beans.length)]
+//                + salsa[r.nextInt(salsa.length)]
+//                + veggies[r.nextInt(veggies.length)]);
+//
+//        System.out.println("Burrito 7: "
+//                + rice[r.nextInt(rice.length)]
+//                + meat[r.nextInt(meat.length)]
+//                + beans[r.nextInt(beans.length)]
+//                + salsa[r.nextInt(salsa.length)]
+//                + veggies[r.nextInt(veggies.length)]);
+//
+//        System.out.println("Burrito 8: "
+//                + rice[r.nextInt(rice.length)]
+//                + meat[r.nextInt(meat.length)]
+//                + beans[r.nextInt(beans.length)]
+//                + salsa[r.nextInt(salsa.length)]
+//                + veggies[r.nextInt(veggies.length)]);
+//
+//        System.out.println("Burrito 9: "
+//                + rice[r.nextInt(rice.length)]
+//                + meat[r.nextInt(meat.length)]
+//                + beans[r.nextInt(beans.length)]
+//                + salsa[r.nextInt(salsa.length)]
+//                + veggies[r.nextInt(veggies.length)]);
+//
+//        System.out.println("Burrito 10: "
+//                + rice[r.nextInt(rice.length)]
+//                + meat[r.nextInt(meat.length)]
+//                + beans[r.nextInt(beans.length)]
+//                + salsa[r.nextInt(salsa.length)]
+//                + veggies[r.nextInt(veggies.length)]);
 
 
 
